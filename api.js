@@ -1,4 +1,4 @@
-const user = "SovietKitsune"
+const user = "TheConartist"
 const route = "https://en.pronouns.page/api/profile/get/"
 
 let order = [
